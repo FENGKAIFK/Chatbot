@@ -1,7 +1,7 @@
 ---
 applications:
-- name: webchatbot
-  path: target/Chatbot-0.0.1.war
+- name: ChatToMe
+  path: target/ChatToMe-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 2e38d5ef-7506-4e38-804e-e83f3cbe6926
+    CONVERSATION_WORKSPACE_ID: 44025267-6ee0-4130-8471-e896999e1046
